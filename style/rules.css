@@ -9,6 +9,6 @@
   display: flex;
   align-items: center;
 }
-p > span {
+.rules-info > span {
   margin-right: 1rem;
 }
