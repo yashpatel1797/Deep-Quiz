@@ -1,0 +1,17 @@
+.rules-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.result {
+  align-self: center;
+}
+.ans-wrong {
+  background-color: var(--color-alert-danger);
+  border: 2px solid var(--color-alert-danger);
+  color: var(--color-white);
+}
+.ans-correct {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
