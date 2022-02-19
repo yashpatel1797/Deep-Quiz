@@ -1,4 +1,7 @@
 @import url("https://deepui.netlify.app/css/main.css");
+@import url("./header.css");
+@import url("./footer.css");
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 
 .spacer-1rem {
   width: 100%;
